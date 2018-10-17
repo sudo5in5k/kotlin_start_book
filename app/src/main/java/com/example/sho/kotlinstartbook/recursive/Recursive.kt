@@ -8,7 +8,7 @@ package com.example.sho.kotlinstartbook.recursive
 class Recursive {
 
     fun fibonacci(n: Int): Int {
-        return when(n) {
+        return when (n) {
             0 -> 0
             1 -> 1
             2 -> 1

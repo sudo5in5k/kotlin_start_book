@@ -1,7 +1,7 @@
 package com.example.sho.kotlinstartbook
 
-import android.support.v7.app.AppCompatActivity
 import android.os.Bundle
+import android.support.v7.app.AppCompatActivity
 import android.util.Log
 import com.example.sho.kotlinstartbook.higherorder.HigherOrder
 import com.example.sho.kotlinstartbook.lambda.Lambda
